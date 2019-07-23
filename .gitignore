@@ -15,3 +15,5 @@ mergedManifestDescriptor.json
 /mta_archives/
 APIExternalProducer.js
 .*/APIExternalProducer.js
+*.json
+temp.txt
